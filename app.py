@@ -1,11 +1,6 @@
 import streamlit as st
-import os
 import preprocessor, helper
 import matplotlib.pyplot as plt
-
-# Set dynamic port for deployment
-port = int(os.getenv("PORT", 8501))
-os.system(f"streamlit run app.py --server.port {port} --server.address 0.0.0.0")
 
 # Custom CSS for page styling
 st.markdown("""
