@@ -47,15 +47,6 @@ Here’s what powered the magic behind **WhatsApp Chat Analyzer**:
 - 📊 **Pandas** (data processing)
 - 🖋️ **WordCloud** (word cloud generation)
 
----
-
-## 📂 **Setup Instructions**
-
-Follow these steps to run **WhatsApp Chat Analyzer** on your local system:
-
----
-
-
 ```bash
 git clone https://github.com/DeepakChander/Whatsapp-Chat-Analyzer.git
 cd Whatsapp-Chat-Analyzer
