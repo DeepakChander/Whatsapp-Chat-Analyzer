@@ -70,9 +70,10 @@ python app.py
 
 5. Open the App
 Open a browser and go to:
----
 
-http://localhost:5000
+
+https://whatsapp-chat-analyzer-v962.onrender.com
+---
 
 ## 📂 Project Structure
 ```plaintext
@@ -155,7 +156,8 @@ Trends visualization over time to see peaks in message activity.
 For suggestions, issues, or contributions:
 
 **Email:** your-email@example.com
-**GitHub Profile:** https://github.com/yourusername
+
+**GitHub Profile:** https://github.com/DeepakChander
 🤝 Contributing
 Contributions to this project are welcome! If you’d like to contribute:
 
