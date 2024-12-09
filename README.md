@@ -61,12 +61,9 @@ Follow these steps to run **WhatsApp Chat Analyzer** on your local system:
 git clone https://github.com/DeepakChander/Whatsapp-Chat-Analyzer.git
 cd Whatsapp-Chat-Analyzer
 
----
-
 ## 📧 Contact
 
 For any inquiries or support, reach out via:
 - **Email**: bhattd7303@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/deepak-chander-5183651b8/
 
----
