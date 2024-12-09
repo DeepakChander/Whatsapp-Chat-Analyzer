@@ -55,7 +55,6 @@ Follow these steps to run **WhatsApp Chat Analyzer** on your local system:
 
 ---
 
-### 🔧 **Step 1:** Clone the Repository
 
 ```bash
 git clone https://github.com/DeepakChander/Whatsapp-Chat-Analyzer.git
